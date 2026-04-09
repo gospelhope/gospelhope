@@ -46,7 +46,7 @@ I build and scale reliable, data-driven products by combining **product thinking
 
 ---
 
-## 🧪 Projects
+## Projects
 - Expense Tracker (React + Firebase)  
 - ASOS E2E Test Automation (Cypress)  
 - Vinted Test Suite (Cypress)  
@@ -56,7 +56,7 @@ I build and scale reliable, data-driven products by combining **product thinking
 
 ---
 
-## 📫 Contact
+## Contact
 - ✉️ gospeloquong@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/gospelhope-oquong  
 - 🌐 Portfolio: https://gospelhope.github.io  
