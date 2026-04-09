@@ -3,9 +3,7 @@
 
 // product • AI • data • software • quality • customer impact  
 
-I build and scale reliable, data-driven products by combining  
-**product thinking, software engineering, quality engineering, and customer insight**  
-to deliver measurable outcomes.  
+I build and scale reliable, data-driven products by combining **product thinking, software engineering, quality engineering, and customer insight** to deliver measurable outcomes.  
 
 ---
 
@@ -41,7 +39,7 @@ to deliver measurable outcomes.
 ---
 
 ## 💼 Experience
-**Bark.com — Product Ops (Software Quality)**  
+**Bark.com — Product (Software Quality)**  
 - Defined product requirements, KPIs, and user stories for marketplace systems  
 - Led quality strategy and automation to improve release confidence  
 - Used customer data and feedback to drive product improvements  
