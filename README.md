@@ -47,10 +47,10 @@ I build and scale reliable, data-driven products by combining **product thinking
 ---
 
 ## 🧪 Projects
-- 🔹 Expense Tracker (React + Firebase)  
-- 🔹 ASOS E2E Test Automation (Cypress)  
-- 🔹 Vinted Test Suite (Cypress)  
-- 🔹 Fotoshop App Refactor  
+- Expense Tracker (React + Firebase)  
+- ASOS E2E Test Automation (Cypress)  
+- Vinted Test Suite (Cypress)  
+- Fotoshop App Refactor  
 
 👉 More: https://github.com/gospelhope  
 
