@@ -1,2 +1,3 @@
-Hi, I'm Gospelhope David 👋🏽  
-Product-focused engineer building scalable, data-driven software that delivers real customer impact.
+Hi, I'm Gospelhope! 👋🏽
+
+Building across software + cloud + data + AI → shipping scalable, customer-impacting products.
